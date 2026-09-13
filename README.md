@@ -74,8 +74,8 @@ The sample set contains two acquisition styles, identified by the original `time
 Python 3.10+ is recommended.
 
 ```bash
-git clone https://github.com/SanjanaNagwekar/CS137_FinalProject.git
-cd CS137_FinalProject
+git clone https://github.com/SanjanaNagwekar/coral-larvae-detection.git
+cd coral-larvae-detection
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
